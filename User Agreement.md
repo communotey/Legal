@@ -36,19 +36,15 @@ This agreement is a legal contract between you and Communote. By using this webs
 
 **1.3.1**	You may not use Communote to break the law, violate an individual's privacy, or infringe any person or entity’s intellectual property or any other proprietary rights.
 
-communote is for fun
+**1.3.2** Communote is intended to be a place for your entertainment. We are not responsible for any decisions you make based on something you read on communote.
 
-7 communote is intended to be a place for your entertainment. We are not responsible for any decisions you make based on something you read on communote.
+**1.3.3** Communote is not intended to be a marketplace for any goods or services aside from the literary works on the site. For this reason, any transactions you undertake as a result of content on communote is your responsibility alone, so be careful.
 
-communote isn’t intended as a marketplace
+**1.3.4** You may not use communote to conduct transactions for any illegal goods or services.
 
-8 communote is not intended to be a marketplace for any goods or services. For this reason, any transactions you undertake are your responsibility alone, so be careful.
+###1.4 Account Rights
 
-9 You may not use communote to conduct transactions for any illegal goods or services.
-
-your communote account
-
-10 To participate on communote, you must create an account. This either includes a username ("Your Account") and password or at least one of Facebook and Google login tokens. If you want to be able to reset your password, have us contact you, and other verified features, we will require an email address as well. Of course, you can also browse communote without logging in.
+**1.4.1** To participate on communote, you must create an account. This either includes a username ("Your Account") and password or at least one of Facebook and Google login tokens. To permit you to reset your password, have us contact you, and other verified features, we will require an email address as well (??Mandatory??). Alternatively, you can browse communote without logging in.
 
 11 You are solely responsible for the information associated with Your Account and anything that happens related to Your Account.
 
