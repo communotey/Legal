@@ -42,107 +42,123 @@ This agreement is a legal contract between you and Communote. By using this webs
 
 **1.3.4** You may not use communote to conduct transactions for any illegal goods or services.
 
-###1.4 Account Rights
+###1.4 Accounts
 
 **1.4.1** To participate on communote, you must create an account. This either includes a username ("Your Account") and password or at least one of Facebook and Google login tokens. To permit you to reset your password, have us contact you, and other verified features, we will require an email address as well (??Mandatory??). Alternatively, you can browse communote without logging in.
 
-11 You are solely responsible for the information associated with Your Account and anything that happens related to Your Account.
+**1.4.2** You are solely responsible for the information associated with Your Account and anything that happens related to Your Account.
 
-12 You may not license, transfer, sell, or assign Your Account without our written approval.
+**1.4.3** You may not license, transfer, sell, or assign Your Account without our written approval.
 
-Premium
+###1.5 Premium
 
-13 You may also join our premium membership program, communote premium, by paying a monthly fee, or if someone gifts you a membership. This user agreement applies to communote premium members. communote premium does not confer any benefits other than those listed here, it is not currency, it is a membership-based service, and its features are subject to change.
+You may also join our premium membership program, communote premium, by paying a monthly fee, or if someone gifts you a membership. This user agreement applies to communote premium members. communote premium does not confer any benefits other than those listed here, it is not currency, it is a membership-based service, and its features are subject to change.
 
-payment information
+###1.6 Payment Information
 
-14 You may also submit your debit or credit card information ("Payment Information") via the website as part of communote or to purchase other products or services via communote. communote uses third party service providers to process your payment information. If you submit your Payment Information, you agree to pay all costs that you incur, and you give us permission to charge you when payment is due for an amount that includes any applicable taxes, fees, and charges to communote or one of our service providers.
+You may also submit your debit or credit card information ("Payment Information") via the website as part of communote or to purchase other products or services via communote. communote uses third party service providers to process your payment information. If you submit your Payment Information, you agree to pay all costs that you incur, and you give us permission to charge you when payment is due for an amount that includes any applicable taxes, fees, and charges to communote or one of our service providers.
 
-content
+##2 Content
 
-communote content
+###2.1 Communote Content
 
-15 communote contains graphics, text, photographs, images, video, audio, software, code, website compilation, website "look and feel," and advertisements supplied by us or our licensors, which we call "communote content." communote content is protected by intellectual property laws including copyright and other proprietary rights of the United States and foreign countries.
+**2.1.1** Communote contains graphics, text, photographs, images, audio, software, code, website compilation, website "look and feel," and advertisements supplied by us or our licensors, which we call "communote content." communote content is protected by intellectual property laws including copyright and other proprietary rights of the ??United States and foreign countries.
 
-16 We grant you the right to access the communote content in the manner described in this agreement. You may not otherwise make unauthorized commercial use of, reproduce, prepare derivative works, distribute copies, perform, or publicly display communote content, except as permitted by the doctrine of fair use or as authorized in writing by us. If you are interested in licensing communote content, learn more by reading our licensing page and contact us at support@communote.co.
+**2.1.2** We grant you the right to access the communote content in the manner described in this agreement. You may not otherwise make unauthorized commercial use of, reproduce, prepare derivative works, distribute copies, perform, or publicly display communote content, except as permitted by the doctrine of fair use or as authorized in writing by us. If you are interested in licensing communote content, learn more by reading our ??licensing page?? and contact us at [support@communote.co](mailto:support@communote.co).
 
-your content
+###2.2 Your Content
 
-17 You retain the rights to your copyrighted content or information that you submit to communote ("user content") except as described below.
+**2.2.1** You retain the rights to your copyrighted content or information that you submit to communote ("user content") except as described below.
 
-18 By submitting user content to us, you grant us a royalty-free, perpetual, irrevocable, non-exclusive, unrestricted, worldwide license to reproduce, prepare derivative works, distribute copies, perform, or publicly display your user content in any medium and for any purpose, including commercial purposes, and to authorize others to do so.
+**2.2.2** By submitting user content to us, you grant us a royalty-free, perpetual, irrevocable, non-exclusive, unrestricted, worldwide license to reproduce, prepare derivative works, distribute copies, perform, or publicly display your user content in any medium and for any purpose, including commercial purposes, and to authorize others to do so.
 
-19 You agree that you have the right to submit anything you upload, and that your user content does not violate the copyright, trademark, trade secret or any other personal or proprietary right of any other party.
+**2.2.3** You agree that you have the right to submit anything you upload, and that your user content does not violate the copyright, trademark, trade secret or any other personal or proprietary right of any other party.
 
-20 Please take a look at communote's privacy policy for an explanation of how we may use or share information submitted by you or collected from you.
+**2.2.4** Please take a look at [communote's privacy policy](Privacy Policy.md) for an explanation of how we may use or share information submitted by you or collected from you.
 
-we don’t endorse user content
+**2.2.5** We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any user content submitted by you to Communote.
 
-21 We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any user content submitted by you to communote.
+**2.2.6** You agree that communote is not responsible for the actions taken or not taken by moderators. However, if you feel you have been acted upon unfairly by a moderator, you may appeal the action by contacting an administrator at [support@communote.co](mailto:support@communote.co)
 
-links and communote
+links and communote ??Do I need to apply this because of Ads and people sticking links in docs??: communote  is a place with many third-party hyperlinks posted by users like you. We are not responsible for the content or actions of any third party websites or services associated with posted links. You agree to take sole legal responsibility for any links you post, and neither this agreement nor our privacy policy applies to any content on other websites related to those links. You should consult the terms and privacy policies of those other websites to understand your rights.
 
-22 communote  is a place with many third-party hyperlinks posted by users like you. We are not responsible for the content or actions of any third party websites or services associated with posted links. You agree to take sole legal responsibility for any links you post, and neither this agreement nor our privacy policy applies to any content on other websites related to those links. You should consult the terms and privacy policies of those other websites to understand your rights.
+##3 Communote rules
 
-communote rules
+###3.1 Key Rules
 
-your participation on communote
+These guidelines are intended to keep people safe, protect kids, keep communote running, and to encourage personal responsibility for what you do on communote. You must:
 
-23 These guidelines are intended to keep people safe, protect kids, keep communote running, and to encourage personal responsibility for what you do on communote. You must:
+**3.1.1 Keep Everyone Safe**: You agree to not intentionally jeopardize the health and safety of others or yourself.
 
-Keep Everyone Safe: You agree to not intentionally jeopardize the health and safety of others or yourself.
-Keep Personal Information Off communote: You agree to not post anyone's sensitive personal information that relates to that person's real world or online identity.
-Do Not Incite Harm: You agree not to encourage harm against people. This includes threatening to harm others, especially not their moms.
-Protect Kids: You agree not to post any child pornography or sexually suggestive content involving minors.
-Take Personal Responsibility: As you use communote, please remember that your speech may have consequences and could lead to criminal and civil liability.
-Use disclaimers to reduce liabilities: is your content potentially dangerous, age-restricted (nudity), or could offend certain groups?
+**3.1.2 Keep Others' Personal Information Off Communote**: You agree to not post anyone else's sensitive personal information that relates to that person's real world or online identity. ??Would this contradict news articles??
 
-24 You also agree to follow the rules of communote.
+**3.1.3 Do Not Incite Harm**: You agree not to encourage harm against people. This includes threatening to harm others, especially not their moms.
 
-reddiquette & group rules
+**3.1.4 Protect Kids**: You agree not to post any child pornography or sexually suggestive content involving minors.
 
-25 You agree to review and make your best efforts to abide by reddiquette, which is an informal expression of the values of many communote memberss, as written by communote memberss themselves.
+**3.1.5 Take Personal Responsibility**: As you use communote, please remember that your speech may have consequences and could lead to criminal and civil liability.
 
-26 groups may create their own rules and enforce them as they see fit, providing they do not violate the terms of this agreement.
+**3.1.6 Use disclaimers to reduce liabilities**: is your content potentially dangerous, age-restricted (nudity), or could offend certain groups?
 
-27 You agree that communote is not responsible for the actions taken or not taken by moderators.
+###3.2 Community Rules
 
-moderators
+**3.2.1** Communities may define their own rules and enforce them as they see fit, providing they do not violate the terms of this agreement.
 
-28 Moderating a group is an unofficial, voluntary position. We reserve the right to revoke that position for any user at any time. If you choose to moderate a group, you agree to the following:
+**3.2.2** Forming a community immediately makes you the initial moderator and means you must follow through with the duties of being a moderator
 
-You may not enter into any form of agreement on behalf of communote, or the group which you moderate, without our written approval.
-You may not perform moderation actions in return for any form of compensation or favor from third-parties.
-When you receive notice that there is content that violates this user agreement on groups you moderate, you agree to remove it.
-don’t spam the communote community
+##4 Moderators
 
-29 You may not post any graphics, text, photographs, images, video, audio or other material that we deem to be junk or spam. Cluttering communote with this sort of content reduces the quality of the communote experience for others. For guidance, see our rules about spam and self-promotion.
+###4.1 Moderator Agreement
 
-respect users that edit their content
+Moderating a group is an unofficial, voluntary, non-permanent position. We reserve the right to revoke that position for any user at any time. We hope you use it as a leadership role. If you choose to moderate a group, you agree to the following:
 
-30 You may not purposefully negate any user's actions to delete or edit their content on communote. This is intended to respect the privacy of communote users who delete or edit their content, and is not intended to abridge the fair use or the expressive rights shared by us all.
+**4.1.1** You may not enter into any form of agreement on behalf of Communote, or the community which you moderate, without our written approval.
 
-don’t mess with communote
+**4.1.2** You may not perform moderation actions in return for any form of compensation or favor from third-parties. You may, however, brag about it on your resume.
 
-31 You agree not to interrupt the serving of communote, introduce malicious code onto communote, make it difficult for anyone else to use communote due to your actions, attempt to manipulate votes or communote’s systems, or assist anyone in misusing communote in any way. It takes a lot of work to maintain communote. Be cool.
+**4.1.3** When you receive notice that there is content that violates this user agreement in communities you moderate, you agree to remove it.
 
-32 We support the responsible reporting of security vulnerabilities. To report a communote security issue, please send an email to support@communote.co or participate in our whitehat wiki.
+**4.1.4** You will terminate your moderator status when you are no longer willing to perform moderator duties. The exception is if you are managing a page for a periodic course, in which case we urge you to maintain your moderator status until the next period.
 
-other ways of accessing communote
+**4.1.5** You agree to follow petitions with more than 2/3 approval on DemocracyOS (when we form our own)
 
-33 Use of the communote API is governed by the API access rules, available here.
+###4.2 Termination
 
-34 communote does not select and takes no responsibility for any content available on communote.tv.
+To give up your position as moderator, you must either appoint other moderator(s) or hold an election, unless there are already moderators on the team.
 
-35 We encourage the creation of other ways to access communote, including browser extensions and mobile and desktop applications. We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any mobile or desktop application not produced by us.
+##5 Spam
 
-36 If you produce or maintain a browser extension or application, you agree not to purposefully negate any user's actions to delete or edit their content on communote.
+You may not post any graphics, text, photographs, images, audio or other material that we deem to be junk or spam. Cluttering communote with this sort of content reduces the quality of the communote experience for others.
 
-children and communote
+##6 Edits
 
-37 communote is not directed at people under the age of 13, and communote does not knowingly collect any personal information from such people. If you know that a user under the age of 13 is accessing communote, please contact us here.
+You may not purposefully negate any user's actions to delete or edit their content on Communote unless you have permission to by the user (as in the case of a shared document). This is intended to respect the privacy of communote users who delete or edit their content, and is not intended to abridge the fair use or the expressive rights shared by us all.
 
-dmca
+##7 Leave Us Alone
+
+**7.1**: You agree not to interrupt the serving of communote, introduce malicious code onto communote, make it difficult for anyone else to use communote due to your actions, attempt to manipulate votes or communote’s systems, or assist anyone in misusing communote in any way. It takes a lot of work to maintain communote. Be cool.
+
+**7.2**: We support the responsible reporting of security vulnerabilities. To report a Communote security issue, please send an email to [support@communote.co](mailto:support@communote.co).
+
+##8 Accessing communote
+
+###8.1 Communote API
+
+Use of the communote API is not yet allowed. We will inform you when we are ready and we will link to the API documents here.
+
+###8.2 Others
+
+**8.2.1** We encourage the creation of other ways to access communote, including browser extensions and mobile and desktop applications. We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any mobile or desktop application not produced by us.
+
+**8.2.2** If you produce or maintain a browser extension or application, you agree not to purposefully negate any user's actions to delete or edit their content on communote without their permission.
+
+##9 Trix are for kids
+
+...and communote is not.
+
+Communote is not currently directed at people under the age of 13, and communote does not knowingly collect any personal information from such people. If you know that a user under the age of 13 is accessing communote, please contact us at [support@communote.co](mailto:support@communote.co). If you are under the age of 13 and wish to submit something to Communote, you must give it to your parent(s) or legal guardian(s) to upload for you on their account.
+
+##10 DMCA
 
 copyright, the dmca, & takedowns
 
@@ -154,7 +170,8 @@ Copyright Agent
 communote, Inc.
 7 Model Avenue
 Toronto, ON, Canada, M3H 1V9
-support@communote.co
+[support@communote.co](mailto:support@communote.co)
+
 40 Please send our Copyright Agent the following information:
 
 The electronic or physical signature of the owner of the copyright or the person authorized to act on the owner's behalf;
@@ -180,7 +197,7 @@ a few more legalities
 44
 Please read the following very carefully. Each of the following sections applies to the maximum extent permitted by law. Where jurisdictions do not allow disclaimers of implied warranties or the limitation of liability in contracts, the contents of this section may not apply.
 
-When we ask for your age, put your real age or we reserve the right to fine your account upon learning your true.
+When we ask for your age, put your real age or we reserve the right to fine your account upon learning your true age.
 
 indemnity
 
@@ -211,7 +228,7 @@ Stripe: transactions
 
 governing law
 
-50 We want you to enjoy communote, so if you have an issue or dispute, you agree to raise it and try to resolve it with us informally. You can contact us with feedback and concerns on our DemocracyOS platform or by emailing us at support@communote.co.
+50 We want you to enjoy communote, so if you have an issue or dispute, you agree to raise it and try to resolve it with us informally. You can contact us with feedback and concerns on our DemocracyOS platform or by emailing us at [support@communote.co](mailto:support@communote.co).
 
 51 The headings in this agreement are for convenience and do not control any of its provisions.
 
