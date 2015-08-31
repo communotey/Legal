@@ -127,7 +127,16 @@ To give up your position as moderator, you must either appoint other moderator(s
 
 ##5 Spam
 
+###5.1 Junk
+
 You may not post any graphics, text, photographs, images, audio or other material that we deem to be junk or spam. Cluttering Communote with this sort of content reduces the quality of the Communote experience for others.
+
+###5.2 False Advertising
+
+You are also prohibited from false advertising products. This includes:
+
+1. Claiming functionality of a product with certainty.
+2. Presenting an unatainable price of a product (e.g. hidden fees or not including tax when necessessary without disclaimer).
 
 ##6 Edits
 
