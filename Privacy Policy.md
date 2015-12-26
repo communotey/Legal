@@ -1,5 +1,7 @@
-Privacy Policy
-==============
+---
+title: Privacy Policy
+layout: post
+---
 
 Influence:
 

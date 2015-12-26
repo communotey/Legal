@@ -1,5 +1,7 @@
-Default Group Policy
-====================
+---
+title: Default Group Policy
+layout: post
+---
 
 1 Introduction
 ---------------

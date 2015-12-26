@@ -1,5 +1,7 @@
-Harassment Policy
-=================
+---
+title: Harassment Policy
+layout: post
+---
 
 We want to ensure that our users feel safe using our site. That’s why we want to make a harassment policy. Unfortunately, pointing out people’s flaws can often be mistaken as harassment.
 

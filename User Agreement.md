@@ -1,5 +1,7 @@
-Communote User Agreement
-========================
+---
+title: User Agreement
+layout: post
+---
 
 Influence:
 
