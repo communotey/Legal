@@ -8,8 +8,7 @@ layout: post
 
 THIS AGREEMENT made between Communote (the "Employer"), a corporation incorporated under the laws of the Province of Ontario, and having its principal place of business at Toronto; and you (the "Worker") effective on date _____.
 
-* Two tiers of Workers: employee and freelance
-* Also: regular vs internship
+* Two tiers of Workers: regular vs internship
 
 Before signing this agreement you must agree to the terms of the nondisclosure agreement.
 
@@ -24,7 +23,7 @@ The following is a long term agreement of entitlement to equity or equity deriva
 
 You will be entitled to a certain percentage of equity upon the incorporation of the company. Your equity will be vested for 3 years with a 1 year cliff from the time of signing this agreement. The cliff means you will not be awarded any equity entitlement until 12 months after signing this agreement at which point you will be awarded 1/3 of the total amount of equity you can earn. After that you will be awarded an equal amount each month, i.e. 1/36 of the total.
 
-If you do not stay with the company before the cliff, you will be entitled to purchase the percentage of shares you may have been guaranteed at 50% the current price at rate of 1/36 of the total per month. This entitlement expires after 1 year, but can be forfeit prior to its expiry and is non-transferable.
+If you do not stay with the company before the end of the cliff period, you will be entitled to purchase the percentage of shares corresponding to the percentage of the vesting schedule you have completed up to the beginning of the current month, at 50% of the current market price. This entitlement expires after 1 year, but can be forfeit prior to its expiry and is non-transferable.
 
 Initially, while the Employer has no cashflow, you will retain a non-salary position. However, your salary will be reviewed on a monthly basis.
 
@@ -69,7 +68,7 @@ You may be expected to travel to McMaster University or North York (the location
 
 ###5.5 Probationary Period
 
-You will be given 2 weeks (14 days) of probationary period to demonstrate your ability before being released with only enough options to pay freelance wage for the tasks you have finished. 
+You will be given 2 weeks (14 days) of probationary period to demonstrate your ability before being released. 
 
 6 Conflict of Interest
 ----------------------
@@ -91,17 +90,17 @@ During the term of the Worker's active employment with the Employer, the Worker 
 	* Was developed by the Worker independently without reference to Confidential Information.
 * The Worker shall use the Confidential Information solely for the purpose of providing the Services hereunder, and that the Confidential Information will be kept confidential and that the Worker will not disclose any of the Confidential Information in any manner whatsoever except as strictly required to provide the Services hereunder as directed by the Employer.
 
-8 Termination
+8	Termination
 -------------
 
 The Employer reserves all rights to terminate the Worker at any time. The Worker is entitled to a reference letter and a reason for firing.
 
-Leaving the company for any reason whether it be because you are being fired or quitting will cancel any vesting.
+Leaving the company for any reason whether it be because you are being fired or quitting will cancel any vesting. That means you will not have to forfeit the equity you already own, but will not be entitled to any future equity. Nothing in this section derogates from the right to purchase equity.
 
 9	Non-Competition
 -------------------
 
-Except with the Employer’s prior written consent, throughout the Term and for an additional period of six (6) months thereafter, the Workers shall not, directly or indirectly, provide or assist in providing services the same or similar to the Employer to a person or entity that is a provider of products and services which are competitive under the relevant Statement of Work.  
+Except with the Employer’s prior written consent, throughout the Term and for an additional period of six (6) months thereafter, the Workers shall not, directly or indirectly, provide or assist in providing services the same or similar to the Employer to a person or entity that is a provider of products and services which are competitive to the Employer.  
 
 10	Other Legal Stuff
 ---------------------
@@ -134,5 +133,13 @@ Any amendment or modification of this Agreement or additional obligation assumed
 
 If your duties or compensation should change during the course of your employment with Company, the validity of this agreement will not be affected.
 
-Agreement is subject to change, but backups of the current version of the agreement you agree to will be backed up and available online.
+Agreement is subject to change, but backups of the current version of the agreement you agree to will be backed up and [available online](https://github.com/communotey/Legal).
 
+---------------------
+
+Inputs:
+
+* Name of the Worker
+* Date of Signing (yyyy-mm-dd)
+* Salary
+* Vesting Schedule (optional)
