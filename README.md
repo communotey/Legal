@@ -9,3 +9,17 @@ These are the agreements on the acceptable use of communote. We knew people woul
 
 1. Click on the thing that says "20 commits" (or whatever number it is at)
 2. Click on the hash `ab39012`
+
+How to understand:
+
+* When a term is defined ("a Term"), the Term will be referenced with a word beginning with a capital letter
+
+If you're a collaborator:
+
+* [McCarthy](https://www.mccarthy.ca/home.aspx): free resource for accessible legal information
+
+Terms to know:
+
+* **Warranty**: "A guarantee given on the performance of a product or the doing of a certain thing." - [Duhaime](http://www.duhaime.org/LegalDictionary/W/Warranty.aspx)
+
+Special thanks to the Milkshake Partners at Justice Inc. for reviewing these agreements.
