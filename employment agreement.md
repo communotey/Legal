@@ -34,6 +34,7 @@ If you wish to be considered an intern, you must declare so before the equity is
 3 Benefits
 ----------
 
+* company car (coming sooner or later)
 * None (coming soon)
 * No vacation policy (coming soon)
 	* Require 1 week notice
