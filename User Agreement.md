@@ -257,5 +257,3 @@ Parts of Communote are governed by the terms of service of our third parties. We
 
 This user agreement is the entire agreement between you and us concerning Communote. It supersedes all prior or contemporaneous agreements between you and us. We may modify this user agreement at any time. If we make changes to this agreement, we will provide advance notice and keep this edition available as an archive on the communote website. By continuing to use communote after a change to this agreement, you agree to those changes.
 
-
-
