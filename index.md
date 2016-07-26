@@ -12,6 +12,6 @@ Here you can find the following legal agreements:
 * [Privacy Policy](Privacy Policy)
 * [User Agreement](User Agreement)
 
-[License](LICENSE)
+[License: Creative Commons](LICENSE)
 
 If you have any issues with the agreement or want to suggest ways to improve it, [create a new issue here](https://github.com/communotey/Legal/issues).
