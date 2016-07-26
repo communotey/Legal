@@ -3,7 +3,7 @@ title: home
 layout: post
 ---
 
-These are the agreements on the acceptable use of communote. We knew people would want to see the current version and the differences between it and previous versions.
+These are the agreements on the acceptable use of communote. Why read the whole agreement every time we update something? [See just the changes on our GitHub here](https://github.com/communotey/Legal/commits/gh-pages).
 
 Here you can find the following legal agreements:
 
@@ -13,3 +13,5 @@ Here you can find the following legal agreements:
 * [User Agreement](User Agreement)
 
 [License](LICENSE)
+
+If you have any issues with the agreement or want to suggest ways to improve it, [create a new issue here](https://github.com/communotey/Legal/issues).
