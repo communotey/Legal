@@ -3,7 +3,7 @@ title: home
 layout: post
 ---
 
-These are the agreements on the acceptable use of communote. Why read the whole agreement every time we update something? [See just the changes on our GitHub here](https://github.com/communotey/Legal/commits/gh-pages).
+These are the agreements on the acceptable use of communote. Why read the whole agreement every time we update something? [See just the changes on our GitHub](https://github.com/communotey/Legal/blob/gh-pages/README.md).
 
 Here you can find the following legal agreements:
 
