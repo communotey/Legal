@@ -91,7 +91,7 @@ These guidelines are intended to keep people safe, protect kids, keep Communote 
 
 **3.1.1 Keep Everyone Safe**: You agree to not intentionally jeopardize the health and safety of others or yourself.
 
-**3.1.2 Keep Others' Personal Information Off Communote**: You agree to not post anyone else's sensitive personal information that relates to that person's real world or online identity. ??Would this contradict news articles??
+**3.1.2 Keep Others' Personal Information Off Communote**: You agree to not post anyone else's sensitive personal information that relates to that person's real world or online identity.
 
 **3.1.3 Do Not Incite Harm**: You agree not to encourage harm against people. This includes threatening to harm others, especially not their moms.
 
