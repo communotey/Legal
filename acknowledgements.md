@@ -1,4 +1,7 @@
-#Open Source Acknowledgements
+---
+title: Open Source Acknowledgements
+layout: post
+---
 
 Here we acknowledge the open source packages used.
 
