@@ -9,6 +9,7 @@ Here you can find the following legal agreements:
 
 * [Default group policy](Default Group Policy)
 * [Harassment Policy](Harassment Policy)
+* [Open Source Acknowledgements](acknowledgements)
 * [Privacy Policy](Privacy Policy)
 * [User Agreement](User Agreement)
 
