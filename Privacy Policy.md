@@ -25,13 +25,13 @@ We do take efforts to make sure the platform keeps working. This includes using 
 3	What Information We Collect
 -------------------------------
 
-###3.1	Registration Information
+### 3.1	Registration Information
 
 When you create an account, you are required to provide a username and password, and may opt to provide an email address. You must also provide one of your Google+ account or your Facebook account. Don’t worry about your name: we’ll only display it if you give us permission to retrieve and display it. We do not want your friends lists. In addition, we’ll only post to your social media outlets if you give us permission to. Your email address and any of your social media information will remain private and we will not disclose it to any 3rd parties.
 
 You will also be required to identify whether you fall within the age bracket of under 13, under 18, or other. This information will remain private to you.
 
-###3.2	Post Data
+### 3.2	Post Data
 
 The posts you make on Communote are not private. This means that, by default, they are not deleted from our servers – ever – and will still be accessible after your account is deleted. However, we only save the most recent version of comments and posts, so your previous edits, once overwritten, are no longer available.
 
