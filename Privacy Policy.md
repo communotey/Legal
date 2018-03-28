@@ -8,10 +8,9 @@ Influence:
 * [EFF](https://www.eff.org/pages/blue-ribbon-campaign)
 * [Reddit](https://www.reddit.com/help/privacypolicy)
 
-1	Introduction
-----------------
+1. 
 
-We take protecting your privacy seriously, and we want you to understand exactly how and why we use your information. This document is our Privacy Policy, which describes what information we collect and what it's used for. It applies to all interactions with communote.net, including interactions with our site through buttons and widgets.
+Communote takes protecting your privacy seriously, and we want you to understand exactly how and why we use your information. This document is our Privacy Policy, which describes what information we collect and what it's used for. It applies to all interactions with communote.net, including interactions with our site through buttons and widgets.
 
 Please read this Privacy Policy carefully. Your use of and/or registration with communote will constitute your agreement to our policy. If you cannot agree to the terms and conditions set forth below, please do not use our services. Additionally, our Privacy Policy is part of our User Agreement, and by using communote you agree to both.
 
