@@ -1,8 +1,6 @@
----
-title: Privacy Policy
-layout: post
----
 
+COMMUNOTE PRIVACY POLICY - MARCH 2018
+-------------------------------
 Influence:
 
 * [EFF](https://www.eff.org/pages/blue-ribbon-campaign)
@@ -11,25 +9,30 @@ Influence:
 1. Overview
 -------------------------------
 
-Comunote is committed to protecting the privacy of every single user. This  Privacy Policy exists to help users understand exactly what information communote collects and and the uses to which this information will be put.  Communote is based on the free exchange of ideas and information, and as a result, it may be necessecary to collect certain information about users to maintain the highest quality of service. It is not Comunote's intention to profit from the collection of this information, so please rest assured that such information will never be sold. Communote's aim in crafting this policy is to respect the privacy of all users, while ensuring the smooth functionning of a platform that is free of spam, harassment, and other activities that violate the user agreement. Therefore, it is highly recommended that all users please read this Privacy Policy carefully. Implicit in the use of and/or registration with Communote is agreement to this policy. If users are hesitant to accept any terms includend in this policy, please bring these concerns to the attention of Communote. The feedback of our users is always appreciated. 
+Comunote is committed to protecting the privacy of all its users. This  Privacy Policy has been desigened to relay to users exactly what information communote collects and and the uses to which this information will be put.  Communote is based on the free exchange of ideas and information, and as a result, it may be necessecary to collect certain information about users to maintain the highest quality of service. It is not Comunote's intention to profit from the collection of this information, so please rest assured that such information will never be sold. Communote's aim in crafting this policy is to respect the privacy of all users, while ensuring the smooth functionning of a platform that is free of spam, harassment, and other activities that violate the user agreement. Therefore, it is highly recommended that all users please read this Privacy Policy carefully. Implicit in the use of and/or registration with Communote is agreement to this policy. If users are hesitant to accept any terms includend in this policy, please bring these concerns to the attention of Communote. The feedback of our users is always appreciated. 
 
 
 2. Information Collected
 -------------------------------
 
-###2.1	Registration Information
+    2.1	Registration Information
 
-When you create an account, you are required to provide a username and password, and may opt to provide an email address. You must also provide one of your Google+ account or your Facebook account. Don’t worry about your name: we’ll only display it if you give us permission to retrieve and display it. We do not want your friends lists. In addition, we’ll only post to your social media outlets if you give us permission to. Your email address and any of your social media information will remain private and we will not disclose it to any 3rd parties.
+All users are required to provide a username and password. Users may opt to provide an email address.  These will be stored by Communote to maintain the security of your account. Communote does not require that its users procide their legal names. Should users chose to do so, names will only be displayed with clear and written consent from the user. 
+
+    2.2	Social Media Information
+    
+Users are also required to provide either a  Google+ account or  Facebook account. The purpose of providing these accounts is so that Communote can have confidence in hte authenticity of its users.  
+In addition, we’ll only post to your social media outlets if you give us permission to. Your email address and any of your social media information will remain private and we will not disclose it to any 3rd parties.
 
 You will also be required to identify whether you fall within the age bracket of under 13, under 18, or other. This information will remain private to you.
 
-###3.2	Post Data
+    2.3	Post Data
 
 The posts you make on Communote are not private. This means that, by default, they are not deleted from our servers – ever – and will still be accessible after your account is deleted. However, we only save the most recent version of comments and posts, so your previous edits, once overwritten, are no longer available.
 
 Your messages are generally only viewable by the parties involved, but they may be accessed internally as needed for community support. Moreover, we keep a complete log of all messages sent on our service, even when both parties later delete their accounts.
 
-###3.3	Comment Data
+    3.3	Comment Data
 
 The comments you make on Communote are not private. This means that, by default, they are not deleted from our servers – ever – and will still be accessible after your account is deleted. However, we only save the most recent version of comments and posts, so your previous edits, once overwritten, are no longer available.
 
