@@ -8,23 +8,16 @@ Influence:
 * [EFF](https://www.eff.org/pages/blue-ribbon-campaign)
 * [Reddit](https://www.reddit.com/help/privacypolicy)
 
-1. 
-
-Communote takes protecting your privacy seriously, and we want you to understand exactly how and why we use your information. This document is our Privacy Policy, which describes what information we collect and what it's used for. It applies to all interactions with communote.net, including interactions with our site through buttons and widgets.
-
-Please read this Privacy Policy carefully. Your use of and/or registration with communote will constitute your agreement to our policy. If you cannot agree to the terms and conditions set forth below, please do not use our services. Additionally, our Privacy Policy is part of our User Agreement, and by using communote you agree to both.
-
-2	About this document
------------------------
-
-Communote is an open platform that allows you to communicate about anything you want on any topic you want. We collect some information in order for you to have an account you can use to participate on the site, and other information that is necessary to make the service work. Our goal in developing our privacy practices is to allow your participation to remain as anonymous as you choose, and we don’t sell or profit from the information you share with us.
-
-We do take efforts to make sure the platform keeps working. This includes using your information, where necessary, to stop spam and gaming and other activities that violate the user agreement. We also share your information when we are legally required to do so. Please read this privacy policy carefully. It describes what information we collect, how it is used, and when it is shared so you can make smart decisions about how you use communote! We think it strikes a good balance and respects you – our users – who make this whole thing possible. Let us know what you think.
-
-3	What Information We Collect
+1. Overview
 -------------------------------
 
-###3.1	Registration Information
+Comunote is committed to protecting the privacy of every single user. This  Privacy Policy exists to help users understand exactly what information communote collects and and the uses to which this information will be put.  Communote is based on the free exchange of ideas and information, and as a result, it may be necessecary to collect certain information about users to maintain the highest quality of service. It is not Comunote's intention to profit from the collection of this information, so please rest assured that such information will never be sold. Communote's aim in crafting this policy is to respect the privacy of all users, while ensuring the smooth functionning of a platform that is free of spam, harassment, and other activities that violate the user agreement. Therefore, it is highly recommended that all users please read this Privacy Policy carefully. Implicit in the use of and/or registration with Communote is agreement to this policy. If users are hesitant to accept any terms includend in this policy, please bring these concerns to the attention of Communote. The feedback of our users is always appreciated. 
+
+
+2. Information Collected
+-------------------------------
+
+###2.1	Registration Information
 
 When you create an account, you are required to provide a username and password, and may opt to provide an email address. You must also provide one of your Google+ account or your Facebook account. Don’t worry about your name: we’ll only display it if you give us permission to retrieve and display it. We do not want your friends lists. In addition, we’ll only post to your social media outlets if you give us permission to. Your email address and any of your social media information will remain private and we will not disclose it to any 3rd parties.
 
