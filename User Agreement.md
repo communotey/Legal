@@ -1,33 +1,26 @@
 ---
-title: User Agreement
-layout: post
+COMMUNOTE USER AGREEMENT - MARCH 2018
 ---
 
-Influence:
 
-* [EFF](https://www.eff.org/issues/bloggers/legal/liability/defamation)
-* [Reddit](https://www.reddit.com/help/useragreement)
-* [YouTube](https://www.youtube.com/static?template=terms)
-* Special thanks to the Milkshake Partners at Justice Inc. for reviewing this agreement
+1.	Legal
 
------------------------------
 
-Hello Communote members and people of the Internet! We want you to know your rights and our rights and so we have prepared this agreement ("user agreement" or "agreement") between Communote ("we", "our," "us") and you. This agreement sets the terms of your use of the Communote website and services ("Communote") that include all groups and the Livefyre comments on the Communote domain. This agreement, like this website is meant to encourage a fair and tolerant place for discussion and freedom of speech.
 
-##1	Legal
-###1.1	Introduction
 
-This agreement is a legal contract between you and Communote. By using this website, you acknowledge that you have read, understood, and agree to be bound by the terms of this agreement. If you do not agree to this agreement, you should not use our services. Please take a look at our privacy policy—it explains how we collect and use your information.
+Dear Communoters,
 
-###1.2	Access
+Communote is a an internet-based communitty predicacated on the free excahnge of ideas, academic and-non academic discussion in a culture of tolerance and respect, and a spirit of communal ownership over information. This User Agreement sets the terms of use for Communote's services 
 
-**1.2.1**	Communote is dedicated to providing equal access to all user-submitted documents on our site.
+This user agreement is a legal contract between you and Communote, and is subject to the law of contracts in Ontario.  By using this website, users acknowledge that they have read, understood, and agree to be bound by the terms of this agreement. Users who do not agree to the terms of this agreement  should not use Communote's services. 
 
-**1.2.2**	Without advance notice and at any time, we may, for violations of this agreement: (1) suspend your ability to comment, (2) temporarily limit Your Account or Communote Premium membership, and/or (3) remove any of your User Content from Communote.
+    1.2	Access
+
+1.2.2	Without advance notice and at any time, we may, for violations of this agreement: (1) suspend your ability to comment, (2) temporarily limit Your Account or Communote Premium membership, and/or (3) remove any of your User Content from Communote.
 
 **1.2.3**	We reserve the right to monitor Communote, and your use of the Service means you agree to such monitoring. At the same time, we do not guarantee we will monitor at all. However, since the privacy of our users is important, we aim to use the data strictly for purposes of identifying the number of accesses of documents as opposed to who is accessing what documents. Communote will not sell any of your information to any 3rd parties and we aim to implement in-house analytics soon.
 
-###1.3	Purpose
+ 1.3	Purpose
 
 **1.3.1**	You may not use Communote to break the law, violate an individual's privacy, or infringe any person or entity’s intellectual property or any other proprietary rights.
 
@@ -37,7 +30,7 @@ This agreement is a legal contract between you and Communote. By using this webs
 
 **1.3.4** You may not use Communote to conduct transactions for any illegal goods or services.
 
-###1.4 Accounts
+  1.4 Accounts
 
 **1.4.1** To participate on Communote, you must create an account. This either includes a username ("Your Account") and password or at least one of Facebook and Google login tokens. To permit you to reset your password, have us contact you, and other verified features, we will require an email address as well (??Mandatory??). Alternatively, you can browse Communote without logging in.
 
@@ -45,7 +38,7 @@ This agreement is a legal contract between you and Communote. By using this webs
 
 **1.4.3** You may not license, transfer, sell, or assign Your Account without our written approval.
 
-###1.5 Premium
+  1.5 Premium
 
 You may also join our premium membership program, Communote premium, by paying a monthly fee, or if someone gifts you a membership. This user agreement applies to Communote premium members. Communote premium does not confer any benefits other than those listed here, it is not currency, it is a membership-based service, and its features are subject to change.
 
