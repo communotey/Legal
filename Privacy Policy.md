@@ -1,5 +1,138 @@
 
+
 COMMUNOTE PRIVACY POLICY - MARCH 2018
+-------------------------------
+
+1. Overview
+-------------------------------
+
+Comunote is committed to protecting the privacy of all its users. This  Privacy Policy has been desigened to relay to users exactly what information communote collects and and the uses to which this information will be put.  
+
+Communote is based on the free exchange of ideas and information, and as a result, it may be necessecary to collect certain information about users to maintain the highest quality of service. It is not Comunote's intention to profit from the collection of this information.
+
+Communote's aim in crafting this policy is to respect the privacy of all users, while ensuring the smooth functionning of a platform that is free of spam, harassment, and other activities that violate the user agreement. 
+
+It is highly recommended that all users please read this Privacy Policy carefully. Implicit in the use of and/or registration with Communote is agreement to this policy. If users are hesitant to accept any terms includend in this policy, please bring these concerns to the attention of Communote. The feedback of our users is always appreciated. 
+
+
+
+2. Information Collected
+-------------------------------
+
+    2.1	Registration Information
+
+All users are required to provide a username and password. Users may opt to provide an email address.  These will be stored by Communote to maintain the security of your account. Communote does not require that its users procide their legal names in order to register. Should users chose to do so, names will only be displayed with clear and written consent from the user. At registration, users will also be required to identify whether you fall within the age bracket of under 13, under 18, or over 18. This information will remain private to users.
+
+    2.2	Social Media Information
+    
+Users are also required to provide either a  Google+ account or  Facebook account. The purpose of providing these accounts is so that Communote can have confidence in the authenticity of its users. In addition, Communote will only post to  users' social media outlets if given express permission to. Wihout sich consent, any social media information collected by Communote will remain private and will not be disclosesto any 3rd parties.
+
+    2.3	Post Data, Comment Data, and Private Messages. 
+
+All posts and comments on Communote are not private, and once published will remain visible for all Communote viewers. Posts and comments will still be accessible by other users after a user's account is deleted, as they are saved to Communote's server.  Communote will keep a complete log of all messages sent on our service. These messages may be requested, through a formal request, to be viewed by a user at a later point in time. Communote also stores the IP addresses associated with specific posts, comments, and private messages for 120 days after they are made or sent.
+
+ 
+    2.4 Log Data
+
+Log data includes the type of software used to access the site (browser, operating system), the type of device you are using, the address of the external or internal page that referred you, and your IP address. This information is recorded for all visitors and is only linked to your account if you are signed in. Except for the IP address you use to create the account, all IP addresses will be deleted from our servers after 120 days.
+
+    2.5 Activity Information
+
+Communote collects information about how all visitors browse the site to make communote better. We remove personally identifiable data from this information after 120 days. This data is intended for research and development purposes only. 
+
+
+3. Intended Use of Data  - Limited to Improving Users' Experience
+-------------------------------
+
+In general, data collected from users is only used internally, for the benefit of Communote users. Communote strives to only use data collected from users in order to facilitate, among other things, the smoother operation of the site, uphold users' securty, investigate issues with our site, track and block suspected spammers, and otherwise maintain the integrity of the community. 
+
+4. Private Information Is Never for Sale
+-------------------------------
+
+Communote will share your personal data with only with users' explicit consent, and after informing users about what information will be shared and with whom.  While advertisers may target their ads to the topic of a given subcommunote or based on your IP address, we do not sell or otherwise give access to any information collected about our users to any third party.
+
+5. Communote Will Not Disclose Information Unless Required by Law or In an Emergency
+-------------------------------
+
+Communote may disclose, or preserve for future disclosure, user information if doing so is reasonably necessary to comply with a law, regulation, or legal process in Canada. If Communote intends to release any information belonging to a user in the context of a legal process, efforts will be made to provide the user with notice in advance, to the extent that such notice complies with Canadian Law. 
+
+In the event that the user agreement is violated, Communote may disclose user information to prevent imminent and serious bodily harm to a person, to address fraud, to rememdy a security breach, deter spam, to protect the rights of minors or other veulnerable groups, and    to protect our rights or property.
+
+7. Cookie Policy
+-------------------------------
+
+At communote, cookies may be used for tracking user preferences, authentication, and collecting anonymous analytics data. Additionally, our advertising partners set cookies. We also use pixel trackers, which are images embedded in a webpage, for the purpose of measuring and analyzing usage and activity. 
+
+    7.1 Data accessible by advertisers and sponsors
+
+Users' viewing history, approximate location, and other browser information will be used to determine the selection of advertisements presented to you. This information will not be accessible to advertisers and can be set as private if you choose. However, that will prevent targeted ads from reaching users. 
+
+    7.2 Preference Cookies
+
+If users are logged out, communote will place a  cookie to denote whether they would like to view +18 content, or they had set a language preference. Preference cookies may also track users who demonstrate explicit positive feedback towards an advertisment. 
+
+    7.3 Authentication Cookies
+
+When users log into thier account, communote will place a cookie for the sole purpose of creating this session, containing the user id and hashed authentication information. 
+
+    7.4 Session Cookie
+
+Communote also uses a session cookie, which contains the date the cookie was set and a unique identifier. This data is anonymized, never associated with your communote account (whether you are logged-in or not), and follows the requirements laid out in the What Information We Collect section of this policy. By knowing how people use the site, we can make it better.
+
+    7.5 Analytics Cookies
+
+Communote uses Google Analytics to help us understand how users interact with our website. It tells us aggregate usage and traffic information, such as how the site was accessed, how long visitors stayed, and the number of first-time visitors to the site. To learn more about Google Analytics and how it uses your data, please visit http://www.google.com/analytics/learn/privacy.html.
+
+    7.6 Pixel Data
+
+Communote uses web pixels to collect activity information to help understand how people use the service. Such information will be used internally, and will be anonymized so that Wany information that could be used to identify an individual user after 120 days. 
+
+    7.7 Disabling cookies
+
+ Cookies may be disabled, but portions of the communote website may not function as intended, upon choosing to do so.
+
+
+8. Account Deletion
+-------------------------------
+
+Useres may choose to delete your communote account at any time. The usernames associated with deleted accounts remain unavailable for others to use, and the public profile is no longer visible to communote users. However, the posts and content created by a communote user will not be automatically deleted as part of the account removal process, though your username will be publicly disassociated with all posts. 
+
+
+9. Data Security
+-------------------------------
+
+Communote will make every effort to secure any private information submitted to us by our users. Neverthelss, communote cannot guarantee the absolute security of this data.  Communote can maintain internal security practices designed to keep your data secure and private, but Communote warns users to use the service at your their own risk.  Communote encourages users to take adequare security measures to protect the privacy of their accounts, and excercise discretion in the kinds of information uploaded to the Communote website. 
+
+
+10. Children Under 13
+-------------------------------
+
+The Communote website may contain age-sensitive material. To keep the most vulnerable groups of users safe, content has been restriced into three categories: (a) Under 13 (b) Under 18 (c) Over 18. Any information posted in these categories will be creened for compliance with Canadian law, and may be restricted by users belongin to other categories. 
+
+
+11. Sexual Content, Cyber Bullying and Harassment
+-------------------------------
+
+Communote is committed to protecting the privacy and integrity of all members. If a user believes that someone has submitted material of any kind depicting another user in any type of sexual, derrogatory, or inequitable context please contact  support@communote.com, and we will expedite its removal as quickly as possible. 
+
+12. Communote mobile
+-------------------------------
+
+Coming Soon!
+
+
+13. Changes to This Policy
+-------------------------------
+
+Communote reserves the right to change this policy to meet theever-changing needs of the user community. Should any changes be made which subtanially alter the rights and obligations of our users, a notice will appear prominently immediate following login.
+
+
+-------------------------------
+-------------------------------
+-------------------------------
+
+
+COMMUNOTE PRIVACY POLICY [OLD] 
 -------------------------------
 Influence:
 
