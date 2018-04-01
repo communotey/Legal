@@ -4,7 +4,6 @@ COMMUNOTE USER AGREEMENT - MARCH 2018
 
 
 
-Dear Communoters,
 
 Communote is a an internet-based communitty predicacated on the free excahnge of ideas, academic and-non academic discussion in a culture of tolerance and respect, and a spirit of communal ownership over information. 
 
@@ -13,26 +12,29 @@ This User Agreement sets the terms of use for Communote's services, and is a leg
 By using this website, users acknowledge that they have read, understood, and agree to be bound by the terms of this agreement. Users who do not agree to the terms of this agreement  should choose not use Communote's services. 
 
 
-    1.	Purpose
+
+    1. Purpose
 
 1.1 Communute operates within the scope of Canadian criminal and civil law. Users may not use Communote to break the law, including but not limited to  violating an individual's privacy, engaging in any form of threatening or harassment, conducting any frauulent transactions, or infringing any person or entity’s intellectual property or any other proprietary rights.
 
 1.2 Communote is not intended to be a marketplace for any goods or services aside from the literary works on the site. Communote is therefore not responsible for any transactions relating to content outside the scope of its services. 
 
 
-    2.  Accounts
+
+    2. Accounts
 
 2.1 To participate in Communote's discussions, users must create an account, which includes a username,  password, and at least one of Facebook and Google login credentials. An email adress may be required in the absence of one of the means of authentication  listed above. 
 
 2.2 Individuals can browse Communote without logging in. Should this be done, such useres may not post, add content, remove content, or communicate with other users on the communote website. 
 
-2.3  Users responsible for the information associated with their accounts. Should an account be found out as the source of any illegal conduct, or conduct violating this User Agreement, the user holding the account should report such conduct to Communote as soon as possible.
+2.3  Users responsible for the information associated with their accounts. Should an account be found out as the source of any illegal conduct, or conduct violating this User Agreement, the user holding the account should report such conduct by contacting an administrator at [support@communote.co](mailto:support@communote.co).
 
 2.4 Users may not license, transfer, sell, or assign their account without express approval from Communote.
 
-2.5  Communote reserves the right to monitor all users' conducs. Using the website is a tacit agreement that a user consents to such monitoring. Such monitoring is necessecary to ensure the security and respect of all users. The scope of such monitoring will be restricted by the parameters described in Communote's SECURITY POLICY.  
+2.5  Communote reserves the right to monitor all users' conducs. Using the website is a tacit agreement that a user consents to such monitoring. Such monitoring is necessecary to ensure the security and respect of all users. The scope of such monitoring will be restricted by the parameters described in Communote's PRIVACY POLICY.  
 
 2.6 Communote may, with or without notice, for violations of this agreement: (1) suspend your ability to comment, (2) temporarily limit Your Account or Communote Premium membership, and/or (3) remove any of your User Content from Communote.
+
 
 
     3. Premium Accounts
@@ -46,56 +48,50 @@ By using this website, users acknowledge that they have read, understood, and ag
 
     4. Communote Content
 
-2.1 All graphics, text, photographs, images, audio, software, code, website compilation, and advertisements supplied by us or our licensors, which we call "Communote content," is subject to protections Canadian copyrights law, as set out in the  COPYRIGHT ACT [http://laws-lois.justice.gc.ca/eng/acts/C-42/FullText.html]
+2.1 All graphics, text, photographs, images, audio, software, code, website compilation, and advertisements supplied by us or our   licensors, termed "Communote content," is subject to protections of Canadian copyrights law, particularly as set out in the s.3(1) of the  *COPYRIGHT ACT.
 
-2.2 Users may access the Communote content  in the manner procribed by this user agreement.  Users may not otherwise make unauthorized commercial use of, reproduce, prepare derivative works, distribute copies, perform, or publicly display Communote content, d contact us at [support@communote.co](mailto:support@communote.co).
+2.2 Users may access the Communote content  in the manner prescribed by this user agreement, or by  the Fair Dealing exeptions under s.29 of the *COPYRIGHT ACT.  
 
-    2.2 User Content
+2.3 If a user discovers copyright infrigning content, they shall be responsible to bring such content to the attention of Communote at [support@communote.co](mailto:support@communote.co).
 
-**2.2.1** You retain the rights to your copyrighted content or information that you submit to Communote ("user content") except as described below.
+    5 User Content
 
-**2.2.2** By submitting user content to us, you grant us a royalty-free, perpetual, irrevocable, non-exclusive, unrestricted, worldwide license to reproduce, prepare derivative works, distribute copies, perform, or publicly display your user content in any medium and for any purpose, including commercial purposes, and to authorize others to do so ??Do we want to authorize others??.
+5.1  Users are entitled to own copyright to the "user content"  uploaded on Communote. Yet, by uploading any material to the Communote website, users grant Communote a non-exclusive yet unrestricted perpetual worldwide license to reproduce, modify, prepare derivative works, distribute copies, perform, or publicly display any such content in any medium and for any purpose, in accordance with s.13(4) of the *COPYRIGHT ACT. 
 
-**2.2.3** You agree that you have the right to submit anything you upload, and that your user content does not violate the copyright, trademark, trade secret or any other personal or proprietary right of any other party.
+5.2. Users agree that they have rights to submit anything uploaded to the Communote website, and that such content does not violate the Intellectual property rights of any other legal person. 
+
+5.3  Communote will assume no liability for any user content submitted by you to Communote. By uploading content to Communote,  users are responsible for any liabilities that may be incurred, including copyright violations.
+
+5.4  Communote is not responsible for the actions taken or not taken by moderators. However, if you feel you have been acted upon unfairly by a moderator, you may appeal the action by contacting an administrator at [support@communote.co](mailto:support@communote.co).
+
+5.5     Communote is not responsible for the content or actions of any third party websites or services associated with posted links. Users agree to take sole legal responsibility for any links you post, and neither this agreement nor our privacy policy applies to any content on other websites related to those links.
+
+    6. Communote Rules of Engagment 
+
+6.1  Communote's "rules of engangment"  ask users to abide by the following:
+
+   (a) agree to not intentionally jeopardize or threatne to jepordize the health and safety of others or yourself
+
+   (b) agree to not post anyone else's sensitive personal information that relates to that person's real world or online identity.
+
+   (c) agree not to encourage harm against human beings, personal or public property, or the natural environment. 
+   
+   (d) agree not to post any child pornography, sexually suggestive content involving minors or animals. 
+   
+   (e) agree not to post any content that is discriminatory in any way, shape, or form.
+   
+   (f) agree engage in open discussion with fully supported views, without resorting to insults of a personal nature. 
+   
+   (d) agree to take personal responisblitiy where there is the possibility of criminal and civil liability for personal acts.
 
 
-**2.2.5** We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any user content submitted by you to Communote.
+6.2 Communities  within communote may define their own rules and enforce them as they see fit, providing they do not violate the terms of this agreement.
 
-**2.2.6** You agree that Communote is not responsible for the actions taken or not taken by moderators. However, if you feel you have been acted upon unfairly by a moderator, you may appeal the action by contacting an administrator at [support@communote.co](mailto:support@communote.co). We recommend you keep a personal backup of any files as well as the original file in its editable format.
+6.3 Communote will strive to use disclaimers to limit liabilities where possible, such as when content is potentially dangerous, age-restricted, or offensice, and users are highly recommended to agree to do the same. 
 
-**2.2.7** By uploading content to Communote, you agree that you are responsible for any liabilities that may be incurred, including copyright violations. Speaking of which, you agree that you own the rights to the intellectual property or that you have the permission from the owner to publish the material.
+7.  Moderators
 
-**2.2.8** You also are giving Communote permission to delete content upon violation of the uploading policy regardless of when we realize you are violating it. You are entitled the right to own copyright to the content you upload on Communote. However, Communote owns the right to modify and delete
-
-**2.2.9** We reserve the right to resort your data at any time or remove access to your material for any reason that may reduce availability to it.
-
-links and Communote ??Do I need to apply this because of Ads and people sticking links in docs??: Communote  is a place with many third-party hyperlinks posted by users like you. We are not responsible for the content or actions of any third party websites or services associated with posted links. You agree to take sole legal responsibility for any links you post, and neither this agreement nor our privacy policy applies to any content on other websites related to those links. You should consult the terms and privacy policies of those other websites to understand your rights.
-
-##3 Communote rules
-
-###3.1 Key Rules
-
-These guidelines are intended to keep people safe, protect kids, keep Communote running, and to encourage personal responsibility for what you do on Communote. You must:
-
-**3.1.1 Keep Everyone Safe**: You agree to not intentionally jeopardize the health and safety of others or yourself.
-
-**3.1.2 Keep Others' Personal Information Off Communote**: You agree to not post anyone else's sensitive personal information that relates to that person's real world or online identity.
-
-**3.1.3 Do Not Incite Harm**: You agree not to encourage harm against people. This includes threatening to harm others, especially not their moms.
-
-**3.1.4 Protect Kids**: You agree not to post any child pornography or sexually suggestive content involving minors.
-
-**3.1.5 Take Personal Responsibility**: As you use Communote, please remember that your speech may have consequences and could lead to criminal and civil liability.
-
-**3.1.6 Use disclaimers to reduce liabilities**: is your content potentially dangerous, age-restricted (nudity), or could offend certain groups?
-
-###3.2 Community Rules
-
-**3.2.1** Communities may define their own rules and enforce them as they see fit, providing they do not violate the terms of this agreement.
-
-**3.2.2** Forming a community immediately makes you the initial moderator and means you must follow through with the duties of being a moderator
-
-##4 Moderators
+6.2 Forming a community immediately makes you the initial moderator and means you must follow through with the duties of being a moderator
 
 ###4.1 Moderator Agreement
 
@@ -156,15 +152,7 @@ Use of the Communote API is not yet allowed. We will inform you when we are read
 
 Communote is not currently directed at people under the age of 13, and Communote does not knowingly collect any personal information from such people. If you know that a user under the age of 13 is accessing Communote, please contact us at [support@communote.co](mailto:support@communote.co). If you are under the age of 13 and wish to submit something to Communote, you must give it to your parent(s) or legal guardian(s) to upload for you on their account. This is because we are not yet equipped to comply with international regulations, such as the Children's Online Privacy Protection Act.
 
-##10 DMCA
 
-###10.1 Copyright, the DMCA, and Takedowns
-
-**10.1.1** We will respond to legitimate requests under the Digital Millennium Copyright Act ("DMCA"), and we retain the right to remove user content on Communote that we deem to be infringing the copyright of others. If you become aware of user content on Communote that infringes your copyright rights, you may submit a properly formatted DMCA request (see 17 U.S.C. § 512) to Communote.
-
-**10.1.2** You are not permitted to copy the content and post it elsewhere online without the permission of the owner. We will file DMCA takedowns if you do so. Instead, link to the page or embed the file on your page. We will provide an embed link so you can do so.
-
-**10.1.3** Misrepresentations or infringement can result in liability for monetary damages. You may want to consult an attorney before taking any action pursuant to the DMCA. Any DMCA request should be sent to this contact information:
 
 Copyright Agent
 Communote, Inc.
