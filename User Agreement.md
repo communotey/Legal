@@ -3,58 +3,54 @@ COMMUNOTE USER AGREEMENT - MARCH 2018
 ---
 
 
-1.	Legal
-
-
-
 
 Dear Communoters,
 
-Communote is a an internet-based communitty predicacated on the free excahnge of ideas, academic and-non academic discussion in a culture of tolerance and respect, and a spirit of communal ownership over information. This User Agreement sets the terms of use for Communote's services 
+Communote is a an internet-based communitty predicacated on the free excahnge of ideas, academic and-non academic discussion in a culture of tolerance and respect, and a spirit of communal ownership over information. 
 
-This user agreement is a legal contract between you and Communote, and is subject to the law of contracts in Ontario.  By using this website, users acknowledge that they have read, understood, and agree to be bound by the terms of this agreement. Users who do not agree to the terms of this agreement  should not use Communote's services. 
+This User Agreement sets the terms of use for Communote's services, and is a legal contract between "users" and Communote, whereby users include all registered individuals.This agreement is subject to the law of contracts in Ontario. 
 
-    1.2	Access
+By using this website, users acknowledge that they have read, understood, and agree to be bound by the terms of this agreement. Users who do not agree to the terms of this agreement  should choose not use Communote's services. 
 
-1.2.2	Without advance notice and at any time, we may, for violations of this agreement: (1) suspend your ability to comment, (2) temporarily limit Your Account or Communote Premium membership, and/or (3) remove any of your User Content from Communote.
 
-**1.2.3**	We reserve the right to monitor Communote, and your use of the Service means you agree to such monitoring. At the same time, we do not guarantee we will monitor at all. However, since the privacy of our users is important, we aim to use the data strictly for purposes of identifying the number of accesses of documents as opposed to who is accessing what documents. Communote will not sell any of your information to any 3rd parties and we aim to implement in-house analytics soon.
+    1.	Purpose
 
- 1.3	Purpose
+1.1 Communute operates within the scope of Canadian criminal and civil law. Users may not use Communote to break the law, including but not limited to  violating an individual's privacy, engaging in any form of threatening or harassment, conducting any frauulent transactions, or infringing any person or entity’s intellectual property or any other proprietary rights.
 
-**1.3.1**	You may not use Communote to break the law, violate an individual's privacy, or infringe any person or entity’s intellectual property or any other proprietary rights.
+1.2 Communote is not intended to be a marketplace for any goods or services aside from the literary works on the site. Communote is therefore not responsible for any transactions relating to content outside the scope of its services. 
 
-**1.3.2** Communote is intended to be a place for your entertainment. We are not responsible for any decisions you make based on something you read on Communote.
 
-**1.3.3** Communote is not intended to be a marketplace for any goods or services aside from the literary works on the site. For this reason, any transactions you undertake as a result of content on Communote is your responsibility alone, so be careful.
+    2.  Accounts
 
-**1.3.4** You may not use Communote to conduct transactions for any illegal goods or services.
+2.1 To participate in Communote's discussions, users must create an account, which includes a username,  password, and at least one of Facebook and Google login credentials. An email adress may be required in the absence of one of the means of authentication  listed above. 
 
-  1.4 Accounts
+2.2 Individuals can browse Communote without logging in. Should this be done, such useres may not post, add content, remove content, or communicate with other users on the communote website. 
 
-**1.4.1** To participate on Communote, you must create an account. This either includes a username ("Your Account") and password or at least one of Facebook and Google login tokens. To permit you to reset your password, have us contact you, and other verified features, we will require an email address as well (??Mandatory??). Alternatively, you can browse Communote without logging in.
+2.3  Users responsible for the information associated with their accounts. Should an account be found out as the source of any illegal conduct, or conduct violating this User Agreement, the user holding the account should report such conduct to Communote as soon as possible.
 
-**1.4.2** You are solely responsible for the information associated with Your Account and anything that happens related to Your Account.
+2.4 Users may not license, transfer, sell, or assign their account without express approval from Communote.
 
-**1.4.3** You may not license, transfer, sell, or assign Your Account without our written approval.
+2.5  Communote reserves the right to monitor all users' conducs. Using the website is a tacit agreement that a user consents to such monitoring. Such monitoring is necessecary to ensure the security and respect of all users. The scope of such monitoring will be restricted by the parameters described in Communote's SECURITY POLICY.  
 
-  1.5 Premium
+2.6 Communote may, with or without notice, for violations of this agreement: (1) suspend your ability to comment, (2) temporarily limit Your Account or Communote Premium membership, and/or (3) remove any of your User Content from Communote.
 
-You may also join our premium membership program, Communote premium, by paying a monthly fee, or if someone gifts you a membership. This user agreement applies to Communote premium members. Communote premium does not confer any benefits other than those listed here, it is not currency, it is a membership-based service, and its features are subject to change.
 
-###1.6 Payment Information
+    3. Premium Accounts
 
-You may also submit your debit or credit card information ("Payment Information") via the website as part of Communote or to purchase other products or services via Communote. Communote uses third party service providers to process your payment information. If you submit your Payment Information, you agree to pay all costs that you incur, and you give us permission to charge you when payment is due for an amount that includes any applicable taxes, fees, and charges to Communote or one of our service providers.
+3.2 Users may also join our premium membership program, Communote premium, by paying a monthly fee, or if someone gifts you a membership. Communote premium does not confer any benefits other than those listed here, it is not currency, it is a membership-based service, and its features are subject to change.
 
-##2 Content
+3.2  Users may also submit your debit or credit card information via the website as part of Communote or to purchase other products or services via Communote. If you submit your Payment Information, you agree to pay all costs that you incur, and you give us permission to charge you when payment is due for an amount that includes any applicable taxes, fees, and charges to Communote or one of our service providers.
 
-###2.1 Communote Content
+3.3 All provisions of this user agreement apply to Communote premium users except where otherwise specified 
 
-**2.1.1** Communote contains graphics, text, photographs, images, audio, software, code, website compilation, website "look and feel," and advertisements supplied by us or our licensors, which we call "Communote content." Communote content is protected by intellectual property laws including copyright and other proprietary rights of the ??United States and foreign countries.
 
-**2.1.2** We grant you the right to access the Communote content in the manner described in this agreement. You may not otherwise make unauthorized commercial use of, reproduce, prepare derivative works, distribute copies, perform, or publicly display Communote content, except as permitted by the doctrine of fair use or as authorized in writing by us. If you are interested in licensing Communote content, learn more by reading our ??licensing page?? and contact us at [support@communote.co](mailto:support@communote.co).
+    4. Communote Content
 
-###2.2 Your Content
+2.1 All graphics, text, photographs, images, audio, software, code, website compilation, and advertisements supplied by us or our licensors, which we call "Communote content," is subject to protections Canadian copyrights law, as set out in the  COPYRIGHT ACT [http://laws-lois.justice.gc.ca/eng/acts/C-42/FullText.html]
+
+2.2 Users may access the Communote content  in the manner procribed by this user agreement.  Users may not otherwise make unauthorized commercial use of, reproduce, prepare derivative works, distribute copies, perform, or publicly display Communote content, d contact us at [support@communote.co](mailto:support@communote.co).
+
+    2.2 User Content
 
 **2.2.1** You retain the rights to your copyrighted content or information that you submit to Communote ("user content") except as described below.
 
@@ -62,7 +58,6 @@ You may also submit your debit or credit card information ("Payment Information"
 
 **2.2.3** You agree that you have the right to submit anything you upload, and that your user content does not violate the copyright, trademark, trade secret or any other personal or proprietary right of any other party.
 
-**2.2.4** Please take a look at [Communote's privacy policy](Privacy Policy.md) for an explanation of how we may use or share information submitted by you or collected from you.
 
 **2.2.5** We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any user content submitted by you to Communote.
 
