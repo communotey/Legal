@@ -102,7 +102,7 @@ By using this website, users acknowledge that they have read, understood, and ag
 
 7.4 Moderators are subject to the democratic consenus among the members of the Community, wih respect to all decisions made in their capacity as Moderators. 
 
-7.5 Moderator status will terminate voluntarily when a moderator is no longer  willing  or able to perform moderator duties. 
+7.5 Moderator status will terminate voluntarily when a Moderator is no longer  willing  or able to perform moderator duties. 
 
 7.6 To give up a position as moderator, you must either appoint other moderator(s) or hold an election, unless there are already moderators on the team. 
 
@@ -140,10 +140,15 @@ By using this website, users acknowledge that they have read, understood, and ag
  12. Communote wholly depends on the contributions of its users. If a user recognizes any copyrighted material published on the Communote website, Please send our Copyright Agent the following information:
 
 a) The electronic or physical signature of the owner of the copyright or the person authorized to act on the owner's behalf;
+
 b)Identification of the copyrighted work claimed to have been infringed, or a representative list of such works;
+
 c)  The URL or Internet location of the materials claimed to be infringing or to be the subject of infringing activity, or information reasonably sufficient to permit us to locate the material;
+
 d)  Your name, address, telephone number and email address;
+
 e)  A statement by you that you have a good faith belief that the disputed use of the material is not authorized by the copyright owner, its agent or the law; and
+
 f) A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or are authorized to act on the copyright owner's behalf.
 
 to the following adress:
@@ -159,9 +164,12 @@ Toronto, ON, Canada, M3H 1V9
 10.3  Communote will notify users immediately if materiall associated with their account has been removed for copyright-related reasons.  Users who believe their content was wrongly removed due to a mistake or misidentification of the material are encouraged file a counter-notice with us that includes the following:
 
 a)Your physical or electronic signature;
+
 b) Identification of the material that has been removed or to which access has been disabled and where the material was located online before it was removed or access to it was disabled;
+
 b) A statement by you that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
-c) Your name, address, and telephone number, and a statement that you consent to the jurisdiction of federal district court for the judicial district in which the address is located, or if your address is outside of the United States, for any judicial district in which the service provider may be found, and that you will accept service of process from the person who provided notification under DMCA 512 subsection (c)(1)(c) or an agent of such person.
+
+c) Your name, address, and telephone number, and a statement that you consent to the jurisdiction of the appropriate Canadian legal forum.
 
 10.4 Upon receiving a counter-notice Communote  will forward it to the complaining party and tell them we will restore your content within 15 business days. If that party does not respond to such a notice, Communote will consider restoring your user content to the site.
 
