@@ -85,72 +85,59 @@ By using this website, users acknowledge that they have read, understood, and ag
    (d) agree to take personal responisblitiy where there is the possibility of criminal and civil liability for personal acts.
 
 
-6.2 Communities  within communote may define their own rules and enforce them as they see fit, providing they do not violate the terms of this agreement.
+6.2 Communities  within Communote may define their own rules and enforce them as they see fit, providing they do not violate the terms of this agreement.
 
 6.3 Communote will strive to use disclaimers to limit liabilities where possible, such as when content is potentially dangerous, age-restricted, or offensice, and users are highly recommended to agree to do the same. 
 
-7.  Moderators
+6.4 The user that forms the community within Communote becomes by default the initial moderator.
 
-6.2 Forming a community immediately makes you the initial moderator and means you must follow through with the duties of being a moderator
+       7.  Moderators
 
-###4.1 Moderator Agreement
+7.1 All Communities must have at least one Moderator at a time. Being a moderator for a group on Communote requires that a user take a leadership role in that specific group, called a Community. It invovles the moderator taking responsibility for the content in that group in an unofficial capacity. It is  a role that can be entered into or exited into at any time. 
 
-Moderating a group is an unofficial, voluntary, non-permanent position. We reserve the right to revoke that position for any user at any time. We hope you use it as a leadership role. If you choose to moderate a group, you agree to the following:
+7.1 A user not enter into any form of agreement on behalf of Communote, or the community which you moderate, without the express written consent of Communote. 
 
-**4.1.1** You may not enter into any form of agreement on behalf of Communote, or the community which you moderate, without our written approval.
+7.2  Moderators are not to be compensated financially or otherwise for the role they undertake. 
 
-**4.1.2** You may not perform moderation actions in return for any form of compensation or favor from third-parties. You may, however, brag about it on your resume.
+7.3  A Moderator is required to remove content that violates this user agreement in their Community, as soon as practicable upon discovery of such content. 
 
-**4.1.3** When you receive notice that there is content that violates this user agreement in communities you moderate, you agree to remove it.
+7.4 Moderators are subject to the democratic consenus among the members of the Community, wih respect to all decisions made in their capacity as Moderators. 
 
-**4.1.4** You will terminate your moderator status when you are no longer willing to perform moderator duties. The exception is if you are managing a page for a periodic course, in which case we urge you to maintain your moderator status until the next period.
+7.5 Moderator status will terminate voluntarily when a moderator is no longer  willing  or able to perform moderator duties. 
 
-**4.1.5** You agree to follow petitions with more than 2/3 approval on DemocracyOS (when we form our own)
+7.6 To give up a position as moderator, you must either appoint other moderator(s) or hold an election, unless there are already moderators on the team. 
 
-###4.2 Termination
 
-To give up your position as moderator, you must either appoint other moderator(s) or hold an election, unless there are already moderators on the team.
+7.7 Communote reserves the right to revoke that position for any user at any time. 
 
-##5 Spam
 
-###5.1 Junk
+    8. Spam, Junk, and other Debris 
 
-You may not post any graphics, text, photographs, images, audio or other material that we deem to be junk or spam. Cluttering Communote with this sort of content reduces the quality of the Communote experience for others.
+5.1 Junk - User may not post any graphics, text, photographs, images, audio or other material that we deem to be junk or spam. 
 
-###5.2 False Advertising
+5.2 False Advertising - Users are also prohibited from false advertising products. All advertising is regulated by Communote, and is carried out by carefully selected advertisers. False advertising includes claiming functionality of a product with certainty, presenting an unatainable price of a product, or any other conduct deemed deceptive or fruadulent by Communote. 
 
-You are also prohibited from false advertising products. This includes:
+    9. Other Users' Content
 
-1. Claiming functionality of a product with certainty.
-2. Presenting an unatainable price of a product (e.g. hidden fees or not including tax when necessessary without disclaimer).
+9.1 Users shall not   purposefully act to undermine, frustrate, or negate any user's actions. They shall delete or edit their content on Communote without permission of that user. 
 
-##6 Edits
+    10.  Communote's Service
 
-You may not purposefully negate any user's actions to delete or edit their content on Communote unless you have permission to by the user (as in the case of a shared document). This is intended to respect the privacy of Communote users who delete or edit their content, and is not intended to abridge the fair use or the expressive rights shared by us all.
+10.1 Users shall note interrupt the serving of Communote, introduce malicious code onto Communote, make it difficult for anyone else to use Communote due to your actions, attempt to manipulate votes or Communote’s systems, or assist anyone in misusing Communote in any way. 
 
-##7 Leave Us Alone
+10.1 Communote highly recommends that users do their part in reporting of security vulnerabilities or defects in Communote's provided service, by sending a message to  [support@communote.co](mailto:support@communote.co).
 
-**7.1**: You agree not to interrupt the serving of Communote, introduce malicious code onto Communote, make it difficult for anyone else to use Communote due to your actions, attempt to manipulate votes or Communote’s systems, or assist anyone in misusing Communote in any way. It takes a lot of work to maintain Communote. Be cool.
 
-**7.2**: We support the responsible reporting of security vulnerabilities. To report a Communote security issue, please send an email to [support@communote.co](mailto:support@communote.co).
+    11.  Protecting Our Kids
 
-##8 Accessing Communote
+11.1 Please be advised that Communote is not currently directed at people under the age of 13, and Communote does not knowingly collect any personal information from such people at this time. In the future, further precautions will be implemented to allow for users under the age of 13 to safely engage in Communote. 
 
-###8.1 Communote API
+11.2 If a user comes to know that an individual under the age of 13 is accessing Communote, please report this at [support@communote.co](mailto:support@communote.co). 
 
-Use of the Communote API is not yet allowed. We will inform you when we are ready and we will link to the API documents here.
 
-###8.2 Others
-
-**8.2.1** We encourage the creation of other ways to access Communote, including browser extensions and mobile and desktop applications. We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any mobile or desktop application not produced by us.
-
-**8.2.2** If you produce or maintain a browser extension or application, you agree not to purposefully negate any user's actions to delete or edit their content on Communote without their permission.
-
-##9 Trix are for kids
-
-...and Communote is not.
-
-Communote is not currently directed at people under the age of 13, and Communote does not knowingly collect any personal information from such people. If you know that a user under the age of 13 is accessing Communote, please contact us at [support@communote.co](mailto:support@communote.co). If you are under the age of 13 and wish to submit something to Communote, you must give it to your parent(s) or legal guardian(s) to upload for you on their account. This is because we are not yet equipped to comply with international regulations, such as the Children's Online Privacy Protection Act.
+    12. Copyright Concerns.
+    
+ 12. Communote is based on 
 
 
 
