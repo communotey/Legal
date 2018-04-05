@@ -134,12 +134,20 @@ By using this website, users acknowledge that they have read, understood, and ag
 
 11.2 If a user comes to know that an individual under the age of 13 is accessing Communote, please report this at [support@communote.co](mailto:support@communote.co). 
 
+11.3 Users must provide their real age if asked by Communote. This policy exists for the safet of all users. 
 
     12. Copyright Concerns.
     
- 12. Communote is based on 
+ 12. Communote wholly depends on the contributions of its users. If a user recognizes any copyrighted material published on the Communote website, Please send our Copyright Agent the following information:
 
+a) The electronic or physical signature of the owner of the copyright or the person authorized to act on the owner's behalf;
+b)Identification of the copyrighted work claimed to have been infringed, or a representative list of such works;
+c)  The URL or Internet location of the materials claimed to be infringing or to be the subject of infringing activity, or information reasonably sufficient to permit us to locate the material;
+d)  Your name, address, telephone number and email address;
+e)  A statement by you that you have a good faith belief that the disputed use of the material is not authorized by the copyright owner, its agent or the law; and
+f) A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or are authorized to act on the copyright owner's behalf.
 
+to the following adress:
 
 Copyright Agent
 Communote, Inc.
@@ -147,47 +155,26 @@ Communote, Inc.
 Toronto, ON, Canada, M3H 1V9
 [support@communote.co](mailto:support@communote.co)
 
-Please send our Copyright Agent the following information:
+10.2 Users may be asked to provide proof of ownership if it is detected that material associated with their account has been flagged for violating copyright, by either Communote's automatic scanner, Moderators, or other users. 
 
-* The electronic or physical signature of the owner of the copyright or the person authorized to act on the owner's behalf;
-* Identification of the copyrighted work claimed to have been infringed, or a representative list of such works;
-* The URL or Internet location of the materials claimed to be infringing or to be the subject of infringing activity, or information reasonably sufficient to permit us to locate the material;
-* Your name, address, telephone number and email address;
-* A statement by you that you have a good faith belief that the disputed use of the material is not authorized by the copyright owner, its agent or the law; and
-* A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or are authorized to act on the copyright owner's behalf.
+10.3  Communote will notify users immediately if materiall associated with their account has been removed for copyright-related reasons.  Users who believe their content was wrongly removed due to a mistake or misidentification of the material are encouraged file a counter-notice with us that includes the following:
 
-**10.1.4** You may be asked to provide proof of ownership, identification, or reference if our copyright scanners find out that your file is accussed of violating copyright by our automatic scanners, moderators, or users.
+a)Your physical or electronic signature;
+b) Identification of the material that has been removed or to which access has been disabled and where the material was located online before it was removed or access to it was disabled;
+b) A statement by you that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
+c) Your name, address, and telephone number, and a statement that you consent to the jurisdiction of federal district court for the judicial district in which the address is located, or if your address is outside of the United States, for any judicial district in which the service provider may be found, and that you will accept service of process from the person who provided notification under DMCA 512 subsection (c)(1)(c) or an agent of such person.
 
-###10.2 Counter-Notice
+10.4 Upon receiving a counter-notice Communote  will forward it to the complaining party and tell them we will restore your content within 15 business days. If that party does not respond to such a notice, Communote will consider restoring your user content to the site.
 
-**10.2.1** If we remove your user content in response to a copyright or trademark notice, we will notify you and offer to provide you with a copy of the notice. If you believe your user content was wrongly removed due to a mistake or misidentification of the material, you can file a counter-notice with us that includes the following:
+10.5 It is Communote's policy to close the accounts of users we identify as repeatedly infringing copyright. There is no minimum or maximum number of infringments associated with the notion of 'repeatedly,' as used above. The determination as to if and when an account will be closed is entirely dependant on numerous contextual factors, and will fall to the discretion of Communote. 
 
-* Your physical or electronic signature;
-* Identification of the material that has been removed or to which access has been disabled and where the material was located online before it was removed or access to it was disabled;
-* A statement by you, under penalty of perjury, that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
-* Your name, address, and telephone number, and a statement that you consent to the jurisdiction of federal district court for the judicial district in which the address is located, or if your address is outside of the United States, for any judicial district in which the service provider may be found, and that you will accept service of process from the person who provided notification under DMCA 512 subsection (c)(1)(c) or an agent of such person.
+       11 Additional Legalities
 
-**10.2.2** Upon receiving a counter-notice we will forward it to the complaining party and tell them we will restore your content within 10 business days. If that party does not notify us that they have filed an action to enjoin your use of that content on Communote before that period passes, we will consider restoring your user content to the site.
+ 11.1 All  content submitted or posted to Communote, and all actions performed with respect to the Communote website,  remain the  responsibility of the user. Communote is not civilly liable  for any user content or actions that infringe the law or the rights of any person in any way.
 
-**10.2.3** It is Communote's policy to close the accounts of users we identify as "repeat infringers". We apply this policy at our discretion and in appropriate circumstances, such as when a user has been charged with infringing the copyrights or other intellectual property rights of others more than twice.
+ 11.2 Users agree that Communote, and all associated persons and entities shall not be made a defendant in any civil claim, no matter the remedy sought, in relation to  the users' dealings with Communote.
 
-##11 Additional Legalities
-
-Please read the following very carefully. Each of the following sections applies to the maximum extent permitted by law. Where jurisdictions do not allow disclaimers of implied warranties or the limitation of liability in contracts, the contents of this section may not apply.
-
-###11.1 Real Age
-
-When we ask for your age, put your real age or we reserve the right to fine your account upon learning your true age.
-
-###11.2 Indemnity
-
-**11.2.1** All the things you do and all the information you submit or post to Communote remain your responsibility. Indemnity is basically a way of saying that you will not hold us legally liable for any of your user content or actions that infringe the law or the rights of a third party or person in any way.
-
-**11.2.2** Specifically, you agree to hold Communote, its affiliates, officers, directors, employees, agents, and third party service providers harmless from and defend them against any claims, costs, damages, losses, expenses, and any other liabilities, including attorneys’ fees and costs, arising out of or related to your access to or use of Communote, your violation of this user agreement, and/or your violation of the rights of any third party or person.
-
-###11.3 DISCLAIMER OF WARRANTIES
-
-COMMUNOTE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE AND OUR AFFILIATES AND THIRD PARTY SERVICE PROVIDERS DISCLAIM ANY AND ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING (BUT NOT LIMITED TO) IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS, OR ANY OTHER WARRANTY, CONDITION, GUARANTEE OR REPRESENTATION, WHETHER ORAL OR ELECTRONIC. YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER OR MOBILE DEVICE, LOSS OF USE, OR LOSS OF YOUR USER CONTENT. WE DO NOT GUARANTEE THAT COMMUNOTE WILL ALWAYS WORK PROPERLY.
+11.3 COMMUNOTE IS PROVIDED "AS IS" AND SEEKS TO DISCLAIM ANY AND ALL WARRANTIES, EXPRESS OR IMPLIED,  WE DO NOT GUARANTEE THAT COMMUNOTE WILL ALWAYS WORK PROPERLY.
 
 ###11.4 LIMITATION OF LIABILITY
 
@@ -195,12 +182,7 @@ COMMUNOTE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM E
 
 **11.4.2** YOU AGREE TO RELEASE US, OUR AFFILIATES, AND THIRD-PARTY SERVICE PROVIDERS, AND EACH ASSOCIATED DIRECTOR, EMPLOYEE, AGENTS, AND OFFICERS, FROM CLAIMS, DEMANDS AND DAMAGES (ACTUAL AND CONSEQUENTIAL), OF EVERY KIND AND NATURE, KNOWN AND UNKNOWN, DISCLOSED OR UNDISCLOSED, ARISING OUT OF OR IN ANY WAY CONNECTED TO YOUR USE OF COMMUNOTE.
 
-###11.5 Third Parties
 
-Parts of Communote are governed by the terms of service of our third parties. We’ve tried to include them under ours to have a single unified agreement, but by using Communote you also agree to their terms of service. Their terms are subject to change at any time without notifying you. The privacy policies of the following third parties apply where their service is used:
-
-* [Livefyre](http://www.livefyre.com/terms/): commenting platform
-* [Stripe](https://stripe.com/terms): transactions
 
 ###11.6 Governing Law
 
