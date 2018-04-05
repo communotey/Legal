@@ -1,4 +1,3 @@
----
 COMMUNOTE USER AGREEMENT - MARCH 2018
 ---
 
@@ -170,35 +169,19 @@ c) Your name, address, and telephone number, and a statement that you consent to
 
        11 Additional Legalities
 
- 11.1 All  content submitted or posted to Communote, and all actions performed with respect to the Communote website,  remain the  responsibility of the user. Communote is not civilly liable  for any user content or actions that infringe the law or the rights of any person in any way.
+11.1 All  content submitted or posted to Communote, and all actions performed with respect to the Communote website,  remain the  responsibility of the user. Communote is not civilly liable  for any user content or actions that infringe the law or the rights of any person in any way.
 
- 11.2 Users agree that Communote, and all associated persons and entities shall not be made a defendant in any civil claim, no matter the remedy sought, in relation to  the users' dealings with Communote.
+11.2 Users agree that Communote, including all associated persons and entities, shall not be held liable for any civil claim, be it contractual or extra-contractual, in relation to  the users' dealings with Communote. Communote, including all associated persons and entities, is therefore not responsible for any damages or losses arising from users' dealings with communote. 
+ 
+11.3 Communote disclaims any and all waranties, express or implied, arrising from users' experience with the Communote's services.
+ 
+11.4 Communote encourages users who have an issue or dispute, to agree to initially raise it and try to resolve it with us informally, by sending a message to  [support@communote.co](mailto:support@communote.co). In the event of any legal action or application, users agree to engage in mandatory mediation as soon as practicable. 
 
-11.3 COMMUNOTE IS PROVIDED "AS IS" AND SEEKS TO DISCLAIM ANY AND ALL WARRANTIES, EXPRESS OR IMPLIED,  WE DO NOT GUARANTEE THAT COMMUNOTE WILL ALWAYS WORK PROPERLY.
+11.5 Any claim or dispute between arising out of or relating to this user agreement, in whole or in part, shall be governed by the laws of the province of Ontario without respect to its conflict of laws provisions. We agree and you agree to submit to the personal jurisdiction and venue of the Superior Court of Ontario or the  Federal Court of Canada.
 
-###11.4 LIMITATION OF LIABILITY
+11.7 Should any provision of this user agreement be held invalid or unenforceable in a Canadian court of law, that provision will be modified to the extent necessary to render it enforceable without losing its intent. If no such modification is possible, that provision will be severed from the rest of this agreement, without prejudice to the intent of this entire agreement. 
 
-**11.4.1** WE WILL NOT BE LIABLE FOR ANY SPECIAL, CONSEQUENTIAL, INDIRECT, INCIDENTAL, PUNITIVE, RELIANCE, OR EXEMPLARY DAMAGES, WHETHER IN TORT, CONTRACT, OR ANY OTHER LEGAL THEORY, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THIS AGREEMENT OR YOUR USE OF OR ATTEMPT TO USE COMMUNOTE, INCLUDING (BUT NOT LIMITED TO) DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, OR DATA. THIS LIMITATION ON LIABILITY SHALL NOT BE AFFECTED EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME STATES DO NOT ALLOW FOR THE EXCLUSION OF IMPLIED WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU. YOU MAY HAVE OTHER RIGHTS THAT VARY FROM STATE TO STATE.
+11.8 Communote reserves the right to enforce any right or provision in this user agreement at any future time. Communote's choice to do or not do so is not an expression of its future intent. 
 
-**11.4.2** YOU AGREE TO RELEASE US, OUR AFFILIATES, AND THIRD-PARTY SERVICE PROVIDERS, AND EACH ASSOCIATED DIRECTOR, EMPLOYEE, AGENTS, AND OFFICERS, FROM CLAIMS, DEMANDS AND DAMAGES (ACTUAL AND CONSEQUENTIAL), OF EVERY KIND AND NATURE, KNOWN AND UNKNOWN, DISCLOSED OR UNDISCLOSED, ARISING OUT OF OR IN ANY WAY CONNECTED TO YOUR USE OF COMMUNOTE.
-
-
-
-###11.6 Governing Law
-
-**11.6.1** We want you to enjoy Communote, so if you have an issue or dispute, you agree to initially raise it and try to resolve it with us informally. You can contact us with feedback and concerns on our DemocracyOS platform or by emailing us at [support@communote.co](mailto:support@communote.co).
-
-**11.6.2** The headings in this agreement are for convenience and do not control any of its provisions.
-
-**11.6.3** Any claim or dispute between you and us arising out of or relating to this user agreement, in whole or in part, shall be governed by the laws of the province of Ontario without respect to its conflict of laws provisions. We agree and you agree to submit to the personal jurisdiction and venue of the provincial court of Ontario or the Canadian federal court.
-
-###11.7 Severability and Enforcement
-
-**11.7.1** If any provision of this user agreement is held invalid or unenforceable, that provision will be modified to the extent necessary to render it enforceable without losing its intent. If no such modification is possible, that provision will be severed from the rest of this agreement.
-
-**11.7.2** If we do not enforce any right or provision in this user agreement, that is not to be deemed a waiver of our right to do so in the future.
-
-###11.8 Changes to this user agreement
-
-This user agreement is the entire agreement between you and us concerning Communote. It supersedes all prior or contemporaneous agreements between you and us. We may modify this user agreement at any time. If we make changes to this agreement, we will provide advance notice and keep this edition available as an archive on the communote website. By continuing to use communote after a change to this agreement, you agree to those changes.
+11.9 This user agreement is the entire agreement between users and Communote. Communote may modify this user agreement at any time. If changes are made to this agreement, Communote will provide advance notice and keep this edition available as an archive on the communote website. Users who contunue to use communote after such changes are deemed to have agreed to those changes.
 
