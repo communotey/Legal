@@ -1,3 +1,10 @@
+---
+title: Default Group Policy
+layout: post
+---
+
+{:toc}
+
 # Advertisers Agreement
 
 ## Prohibited content
