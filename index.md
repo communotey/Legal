@@ -7,6 +7,7 @@ These are the agreements on the acceptable use of communote. Why read the whole 
 
 Here you can find the following legal agreements:
 
+* [Advertisers' Agreement](Advertisers Agreement)
 * [Default group policy](Default Group Policy)
 * [Harassment Policy](Harassment Policy)
 * [Open Source Acknowledgements](acknowledgements)
