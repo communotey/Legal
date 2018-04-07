@@ -1,5 +1,5 @@
 ---
-title: Default Group Policy
+title: Advertisers Agreement
 layout: post
 ---
 
